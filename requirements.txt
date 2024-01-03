@@ -1,0 +1,12 @@
+pandas
+html
+beautifulsoup
+selenium
+webdriver_manager
+threads
+yagmail
+re
+ast
+sqlalchemy
+pyodbc
+urllib
